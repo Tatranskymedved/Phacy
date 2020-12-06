@@ -85,5 +85,4 @@ public class InputDebugger : MonoBehaviour
     {
         Show(nameof(OnAttack));
     }
-
 }
